@@ -48,7 +48,7 @@ Explore the features of the Amazon-FrontEnd project:
 
 ## Screenshots
 ### Homepage
-![Homepage](./amazonPic.png)
+![Homepage](./AmazonWindow.png)
 
 ## Technologies Used
 - **HTML5:** For structuring the content.
