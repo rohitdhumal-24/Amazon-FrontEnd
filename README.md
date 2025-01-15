@@ -81,6 +81,15 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ---
 
+## Contributors
+
+- **Rohit Dhumal**
+  - Role: Developer
+  - Contact: [rohitdhumal248@gmail.com](mailto\:rohitdhumal248@gmail.com)
+
+---
+
+Thank you for exploring the **Amazon-FrontEnd** application! Feedback is welcome.
 Feel free to customize and enhance this README as you see fit. If you encounter any issues or have suggestions for improvement, please let me know!
 
 
